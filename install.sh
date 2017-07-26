@@ -39,6 +39,4 @@ then
     ln -s ~/.vim/vimrc ~/.vimrc
 
     rm ~/.vim/install.sh
-
-    cp ~/.vim/font/Terminus/PCF/ter-* ~/.local/share/fonts/
 fi
