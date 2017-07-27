@@ -5,6 +5,7 @@ set nu
 set rnu
 set cursorline
 set visualbell
+set t_vb=
 set tabstop=4
 set shiftwidth=4
 set softtabstop=4
