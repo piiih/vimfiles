@@ -9,6 +9,8 @@ Plug 'mhinz/vim-signify'
 Plug 'tpope/vim-surround'
 Plug 'maxbrunsfeld/vim-yankstack'
 Plug 'teranex/jk-jumps.vim'
+Plug 'pangloss/vim-javascript'
+Plug 'mileszs/ack.vim'
 call plug#end()
 
 let mapleader = ' '
