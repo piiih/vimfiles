@@ -12,6 +12,7 @@ Plug 'teranex/jk-jumps.vim'
 Plug 'pangloss/vim-javascript'
 Plug 'mileszs/ack.vim'
 Plug 'mxw/vim-jsx'
+Plug 'rodjek/vim-puppet'
 call plug#end()
 
 let mapleader = ' '
