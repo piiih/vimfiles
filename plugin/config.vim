@@ -13,6 +13,7 @@ set expandtab
 set wildmenu
 set incsearch
 set hlsearch
+set noswapfile
 
 " Change cursor shape in insert mode
 au InsertEnter * silent execute "!echo -en \<esc>[6 q"
