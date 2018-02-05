@@ -20,6 +20,7 @@ nnoremap gV `[v`]
 
 "Better <ESC>
 inoremap jk <ESC>
+inoremap JK <ESC>
 
 "Vim Xclipboard (Must have vim-gtk or something to vim access
 "Xclipboard)
