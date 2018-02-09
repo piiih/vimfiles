@@ -13,6 +13,7 @@ Plug 'pangloss/vim-javascript'
 Plug 'mileszs/ack.vim'
 Plug 'mxw/vim-jsx'
 Plug 'rodjek/vim-puppet'
+Plug 'jiangmiao/auto-pairs'
 call plug#end()
 
 let mapleader = ' '
