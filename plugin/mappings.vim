@@ -1,6 +1,7 @@
 "Faster save
 nnoremap <leader>w :w<CR>
 
+"Reload vimrc
 nnoremap <C-h> :so $MYVIMRC<CR>
 
 "Buffers navigate
@@ -14,6 +15,8 @@ nnoremap <silent> <C-p> :call fzf#run({'sink': 'e'})<CR>
 "Better Movement
 autocmd VimEnter * nnoremap j gj
 autocmd VimEnter * nnoremap k gk
+nnoremap <C-j> 3j
+nnoremap <C-k> 3k
 
 "Highlight previous INSERT
 nnoremap gV `[v`]
