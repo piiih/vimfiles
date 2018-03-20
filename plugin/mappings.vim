@@ -9,8 +9,8 @@ nnoremap <silent> gn :bn<CR>
 nnoremap <silent> gp :bp<CR>
 
 "FUZZY FILE
-nnoremap <silent> <C-t> :call fzf#run({'sink':'tabe','down':'30%'})<CR>
-nnoremap <silent> <C-p> :call fzf#run({'sink': 'e'})<CR>
+nnoremap <silent> <C-t> :call fzf#run({'source': 'find . -not \( -path "./node_modules/*" -prune \) -not \( -path "./.git/*" -prune \) -type f', 'sink':'tabe','down':'30%'})<CR>
+nnoremap <silent> <C-p> :FZF<CR>
 
 "Better Movement
 autocmd VimEnter * nnoremap j gj
