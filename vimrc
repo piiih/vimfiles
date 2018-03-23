@@ -14,6 +14,8 @@ Plug 'mileszs/ack.vim'
 Plug 'mxw/vim-jsx'
 Plug 'rodjek/vim-puppet'
 Plug 'jiangmiao/auto-pairs'
+Plug 'guns/vim-clojure-static'
+Plug 'tpope/vim-fireplace'
 call plug#end()
 
 let mapleader = ' '
