@@ -17,6 +17,7 @@ Plug 'jiangmiao/auto-pairs'
 Plug 'guns/vim-clojure-static'
 Plug 'tpope/vim-fireplace'
 Plug 'hsanson/vim-android'
+Plug 'udalov/kotlin-vim'
 call plug#end()
 
 let mapleader = ' '
