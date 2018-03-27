@@ -16,7 +16,7 @@ Plug 'rodjek/vim-puppet'
 Plug 'jiangmiao/auto-pairs'
 Plug 'guns/vim-clojure-static'
 Plug 'tpope/vim-fireplace'
-Plug 'hsanson/vim-android'
+Plug 'piiih/vim-simple-android'
 Plug 'udalov/kotlin-vim'
 call plug#end()
 
