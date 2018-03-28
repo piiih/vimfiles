@@ -18,6 +18,8 @@ Plug 'guns/vim-clojure-static'
 Plug 'tpope/vim-fireplace'
 Plug 'piiih/vim-simple-android'
 Plug 'udalov/kotlin-vim'
+Plug 'roxma/vim-paste-easy'
+Plug 'vim-syntastic/syntastic'
 call plug#end()
 
 let mapleader = ' '
