@@ -18,6 +18,9 @@ Plug 'guns/vim-clojure-static'
 Plug 'tpope/vim-fireplace'
 Plug 'piiih/vim-simple-android'
 Plug 'udalov/kotlin-vim'
+Plug 'Shougo/deoplete.nvim'
+Plug 'roxma/nvim-yarp'
+Plug 'roxma/vim-hug-neovim-rpc'
 call plug#end()
 
 let mapleader = ' '
