@@ -21,6 +21,10 @@ Plug 'udalov/kotlin-vim'
 Plug 'Shougo/deoplete.nvim'
 Plug 'roxma/nvim-yarp'
 Plug 'roxma/vim-hug-neovim-rpc'
+Plug 'rust-lang/rust.vim'
+Plug 'vim-syntastic/syntastic'
+Plug 'racer-rust/vim-racer'
+Plug 'webastien/vim-ctags'
 call plug#end()
 
 let mapleader = ' '

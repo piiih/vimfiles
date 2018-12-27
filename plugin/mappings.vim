@@ -24,6 +24,9 @@ nnoremap gV `[v`]
 "Better <ESC>
 inoremap jk <ESC>
 
+" Faster Autocomplete
+inoremap jj <C-n>
+
 inoremap II <Esc>I
 inoremap AA <Esc>A
 inoremap OO <Esc>O
