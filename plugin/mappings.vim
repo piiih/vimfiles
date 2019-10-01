@@ -27,9 +27,7 @@ inoremap jk <ESC>
 " Faster Autocomplete
 inoremap jj <C-n>
 
-inoremap II <Esc>I
 inoremap AA <Esc>A
-inoremap OO <Esc>O
 
 "Vim Xclipboard (Must have vim-gtk or something to vim access
 "Xclipboard)
