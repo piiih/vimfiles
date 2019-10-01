@@ -32,3 +32,6 @@ inoremap AA <Esc>A
 "Vim Xclipboard (Must have vim-gtk or something to vim access
 "Xclipboard)
 vnoremap <silent><leader>y "+y
+
+" Vim ramda import
+nnoremap <C-f> :call ImportFunction()<CR>
